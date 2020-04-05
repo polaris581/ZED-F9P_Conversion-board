@@ -6,6 +6,12 @@ F9Pをユニバーサル基板上で使うための変換基板です。
 
 もし役に立った場合は、Twitterで@polaris581まで連絡をくれると喜びます。
 
+## 使い方
+Kicadをインスコ
+同梱のP9PのKicadLibraryをKicadに追加。
+ファイルを開く。
+以上！
+
 ## 記事
 https://www.mechatronahibi.com/kicad-converter-make/
 
