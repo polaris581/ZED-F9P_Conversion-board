@@ -42,7 +42,7 @@
   )
 
   (setup
-    (last_trace_width 0.5)
+    (last_trace_width 0.25)
     (user_trace_width 0.25)
     (user_trace_width 0.35)
     (user_trace_width 0.4)
@@ -833,8 +833,6 @@
   (segment (start 126.73 129.68) (end 126.95 129.68) (width 0.5) (layer F.Cu) (net 47))
   (segment (start 151.96 121.89) (end 159.75 129.68) (width 0.5) (layer F.Cu) (net 47))
   (segment (start 150.39 121.89) (end 151.96 121.89) (width 0.5) (layer F.Cu) (net 47))
-  (segment (start 134.52 121.89) (end 136.09 121.89) (width 0.5) (layer F.Cu) (net 47))
-  (segment (start 126.73 129.68) (end 134.52 121.89) (width 0.5) (layer F.Cu) (net 47))
   (segment (start 124.19 114.44) (end 133.29 114.44) (width 0.5) (layer F.Cu) (net 47))
   (segment (start 134.47 106.94) (end 126.73 99.2) (width 0.5) (layer F.Cu) (net 47))
   (segment (start 136.09 106.94) (end 134.47 106.94) (width 0.5) (layer F.Cu) (net 47))
@@ -842,6 +840,8 @@
   (segment (start 145.99 106.94) (end 145.99 102.8) (width 0.5) (layer F.Cu) (net 47))
   (segment (start 140.49 102.8) (end 136.89 99.2) (width 0.5) (layer F.Cu) (net 47))
   (segment (start 140.49 106.94) (end 140.49 102.8) (width 0.5) (layer F.Cu) (net 47))
+  (segment (start 133.730895 122.682) (end 136.09 121.89) (width 0.5) (layer F.Cu) (net 47))
+  (segment (start 126.73 129.68) (end 133.730895 122.682) (width 0.5) (layer F.Cu) (net 47))
 
   (zone (net 47) (net_name GND) (layer F.Cu) (tstamp 5E8AD39A) (hatch edge 0.508)
     (connect_pads (clearance 0.508))

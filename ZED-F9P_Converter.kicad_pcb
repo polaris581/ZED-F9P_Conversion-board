@@ -14,8 +14,7 @@
     (title ZED-F9P_Converter)
     (date 2020-04-05)
     (rev 1.0)
-    (company "Akinobu Kobayashi")
-    (comment 1 "Kanazawa Institute of Technology")
+    (company Mechatroman)
   )
 
   (layers

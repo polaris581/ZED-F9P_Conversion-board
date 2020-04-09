@@ -1,5 +1,6 @@
 EESchema Schematic File Version 4
-EELAYER 29 0
+LIBS:ZED-F9P_Converter-cache
+EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -7,8 +8,8 @@ Sheet 1 1
 Title "ZED-F9P_Converter"
 Date "2020-04-05"
 Rev "1.0"
-Comp "Akinobu Kobayashi"
-Comment1 "Kanazawa Institute of Technology"
+Comp "Mechatroman"
+Comment1 ""
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -253,7 +254,7 @@ F 3 "" H 4150 5100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L ZED-F9P_Converter:f9p_Ublox_ZED_F9P U?
+L ZED-F9P_Converter-rescue:f9p_Ublox_ZED_F9P-ZED-F9P_Converter U?
 U 1 1 5E8B41E0
 P 5750 3150
 F 0 "U?" H 6090 4775 50  0000 C CNN

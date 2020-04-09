@@ -85,11 +85,11 @@ X Pin_9 9 -200 -200 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# ZED-F9P_Converter_f9p_Ublox_ZED_F9P
+# ZED-F9P_Converter-rescue_f9p_Ublox_ZED_F9P-ZED-F9P_Converter
 #
-DEF ZED-F9P_Converter_f9p_Ublox_ZED_F9P U 0 40 Y Y 1 F N
+DEF ZED-F9P_Converter-rescue_f9p_Ublox_ZED_F9P-ZED-F9P_Converter U 0 40 Y Y 1 F N
 F0 "U" 0 600 50 H V C CNN
-F1 "ZED-F9P_Converter_f9p_Ublox_ZED_F9P" 0 -200 50 H V C CNN
+F1 "ZED-F9P_Converter-rescue_f9p_Ublox_ZED_F9P-ZED-F9P_Converter" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW

@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ZED-F9P_Converter-rescue)(type Legacy)(uri ${KIPRJMOD}/ZED-F9P_Converter-rescue.lib)(options "")(descr ""))
+)
